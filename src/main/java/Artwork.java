@@ -11,7 +11,7 @@ public class Artwork {
         this.price = inputPrice;
     }
 
-    //Getters && Setters
+    //Getters and Setters
     public String getTitle(){
         return this.title;
     }
